@@ -1,0 +1,4 @@
+estrategiasDeBusca.heuristica.OrdenarPorCustoMaisAvaliacao
+estrategiasDeBusca.heuristica.BuscaInformada
+estrategiasDeBusca.heuristica.OrdenarPorCusto
+estrategiasDeBusca.heuristica.OrdenarPorAvaliacao
